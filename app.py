@@ -3,7 +3,7 @@ from infer import Summary_Predict
 
 @st.cache
 def load_model():
-    cls = Summary_Predict('/Users/digit82/model_binary', './vocab/tokenizer_35000.model')
+    cls = Summary_Predict('binary', './vocab/tokenizer_35000.model')
     return cls
 
 cls = load_model()
