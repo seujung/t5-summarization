@@ -25,9 +25,8 @@ run.sh
 ```
 
 ## Demo
-![image]('assets/demo.png')
-- News
-- [link](http://www.bloter.net/archives/464015)
+![image](assets/demo.png)
+- News [link](http://www.bloter.net/archives/464015)
 ```
 애플이 '아이패드 에어 4세대'와 '아이패드 8세대'를 오는 29일 국내 출시한다고 21일 밝혔다. 온라인 사전 주문은 21일부터 시작한다.
 
