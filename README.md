@@ -24,6 +24,14 @@ python download.py
 run.sh
 ```
 
+## Performance
+||Rouge-1|Rouge-2|Rouge-L|
+|--|-----|---|---|
+|F1|37.6|26.3|37.7|
+|Precision|38.8|27.3|40|
+|Recall|38.0|26.6|36.9|
+
+
 ## Demo
 ![image](assets/demo.png)
 - News [link](http://www.bloter.net/archives/464015)
